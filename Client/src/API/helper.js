@@ -1,0 +1,1 @@
+export const BASE_URL ="https://hungryrats-backend-1-1nv8.onrender.com";
